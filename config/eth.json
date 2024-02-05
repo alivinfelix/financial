@@ -9,7 +9,6 @@
 		"url": "https://testnet.mainnetz.io/",
 		"group": "Testnets",
 		"isActive": true,
-		"icon": "https://raw.githubusercontent.com/Dev4Crypto/mainnetz/main/images/favicon.png",
-		"invertIconInDarkMode": true
+		"icon": "https://raw.githubusercontent.com/Dev4Crypto/mainnetz/main/images/favicon.png"
 	}
 ]
