@@ -1,0 +1,14 @@
+[{
+    "title": "MainnetZ",
+    "url": "https://explorer.mainnetz.io/",
+    "group": "Mainnets",    
+    "isActive": true,
+    "icon": "https://raw.githubusercontent.com/Dev4Crypto/mainnetz/main/images/favicon.png"
+},
+{
+    "title": "MainnetZ",
+    "url": "https://testnet.mainnetz.io/",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/Dev4Crypto/mainnetz/main/images/favicon.png"
+}
+]
