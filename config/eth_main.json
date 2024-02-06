@@ -1,6 +1,6 @@
 [{
     "title": "MainnetZ",
-    "url": "https://netzexplorer.io/",
+    "url": "https://netzexplorer.io",
     "group": "Mainnets",    
     "isActive": true,
     "icon": "https://raw.githubusercontent.com/Dev4Crypto/mainnetz/main/images/favicon.png"
