@@ -1,0 +1,15 @@
+[
+	{
+		"author": "Mainnetz",
+		"id": "lp-locker",
+		"title": "Mainnetz LP locker",
+		"logo": "https://raw.githubusercontent.com/Dev4Crypto/mainnetz/main/images/logo.png",
+		"categories": ["Bridge"],
+		"shortDescription": "Mainnetz lplocker",
+		"site": "https://lplocker.mainnetz.io",
+		"description": "Mainnetz LP locker site. Enjoy ...",
+		"external": true,
+		"url": "https://lplocker.mainnetz.io/",
+		"internalWallet": false
+	}
+]
