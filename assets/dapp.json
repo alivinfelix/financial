@@ -8,8 +8,8 @@
 		"shortDescription": "Mainnetz lplocker",
 		"site": "https://lplocker.mainnetz.io",
 		"description": "Mainnetz LP locker site. Enjoy ...",
-		"external": true,
+		"external": false,
 		"url": "https://lplocker.mainnetz.io/",
-		"internalWallet": false
+		"internalWallet": true
 	}
 ]
