@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Quick Links",
+        "links": [
+            {
+                "text": "Website",
+                "url": " https://mainnetz.io/"
+            },
+            {
+                "text": "Zodiac Swap",
+                "url": "https://zodiacswap.com/"
+            },
+            {
+                "text": "Bridge",
+                "url": "https://bridge.mainnetz.io/"
+            },
+            {
+                "text": "Github",
+                "url": "https://github.com/MNZChain"
+            },
+            {
+                "text": "Add Contract Creator",
+                "url": "https://netzscan.io/add-contract-creator"
+            }
+        ]
+    }
+]
