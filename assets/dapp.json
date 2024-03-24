@@ -10,7 +10,7 @@
 		"description": "The MainnetZ LP/Token Locker provides a secure platform for liquidity providers in decentralized finance (DeFi). It allows users to lock their LP tokens, ensuring stability and incentivizing long-term participation, contributing to the sustainable growth of decentralized ecosystems.",
 		"external": false,
 		"url": "https://lplocker.mainnetz.io/",
-		"internalWallet": true
+		"internalWallet": false
 	},
 	{
 		"author": "Mainnetz",
@@ -23,7 +23,7 @@
 		"description": "The BulkSender project allows users to send ERC20 standard tokens, NETZ Coin (Native Currency), and ERC721 NFTs in bulk transactions. It simplifies the process of sending these tokens to multiple wallets in a single transaction.",
 		"external": false,
 		"url": "https://multisender.mainnetz.io/",
-		"internalWallet": true
+		"internalWallet": false
 	},
 	{
 		"author": "Mainnetz",
@@ -36,6 +36,6 @@
 		"description": "The future of DeFi and NFTs on web3 powered by Mainnetz. The first DEX and AMM on Mainnetz! Earn ZADI thorough yield farming and stake to earn more tokens!",
 		"external": false,
 		"url": "https://zodiacswap.com/",
-		"internalWallet": true
+		"internalWallet": false
 	}
 ]
