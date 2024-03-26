@@ -37,5 +37,45 @@
 		"external": false,
 		"url": "https://zodiacswap.com/",
 		"internalWallet": false
+	},
+	{
+		"author": "Mainnetz",
+		"id": "Netz Fi",
+		"title": "Netz Fi",
+		"logo": "https://raw.githubusercontent.com/alivinfelix/financial/master/assets/netzfi.png",
+		"categories": ["DeFi"],
+		"shortDescription": "Netz Fi",
+		"site": "https://netz.finance",
+		"description": "Netz.finance provides you with the development service you need to build your idea on Mainnetz, From a simple token to a complex dApp, we have you covered.",
+		"external": false,
+		"url": "https://netz.finance/",
+		"internalWallet": false
+	},
+	{
+		"author": "Mainnetz",
+		"id": "Pepz",
+		"title": "Pepz",
+		"logo": "https://raw.githubusercontent.com/alivinfelix/financial/master/assets/pepz.png",
+		"categories": ["Swaps"],
+		"shortDescription": "Pepz",
+		"site": "https://pepz.io/",
+		"description": "PEPEZ",
+		"external": false,
+		"url": "https://pepz.io/",
+		"internalWallet": false
+	},
+	{
+		"author": "Mainnetz",
+		"id": "NetzPad",
+		"title": "NetzPad",
+		"logo": "https://raw.githubusercontent.com/alivinfelix/financial/master/assets/netzpad.png",
+		"categories": ["Payments"],
+		"shortDescription": "NetzPadNetzPad is your go-to decentralized ticket to token creation and liftoff on MainnetZ! With NetzPad, you can easily conjure up your smart contracts and set your tokens free. Forget about the complexities of coding – our platform ensures a smooth ride for developers itching to make their mark on MainnetZ. Let's turn your token dreams into reality, hassle-free!",
+		"site": "https://netzpad.io/",
+		"description": "NetzPad is your go-to decentralized ticket to token creation and liftoff on MainnetZ! With NetzPad, you can easily conjure up your smart contracts and set your tokens free. Forget about the complexities of coding – our platform ensures a smooth ride for developers itching to make their mark on MainnetZ. Let's turn your token dreams into reality, hassle-free!",
+		"external": false,
+		"url": "https://netzpad.io/",
+		"internalWallet": false
 	}
+	
 ]
