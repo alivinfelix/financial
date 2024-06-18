@@ -76,6 +76,20 @@
 		"external": false,
 		"url": "https://netzpad.io/",
 		"internalWallet": false
+	},
+	{
+		"author": "Revoke",
+		"id": "revoke.cash",
+		"title": "Revoke.cash",
+		"logo": "https://blockscout-content.s3.amazonaws.com/revokecash.png",
+		"categories": ["Infra & Dev tooling"],
+		"shortDescription": "Revoke.cash comes in as a preventative tool to manage your token allowances and practice proper wallet hygiene. By regularly revoking active allowances you reduce the chances of becoming the victim of allowance exploits.",
+		"site": "https://revoke.cash/about",
+		"external": false,
+		"description": "Revoke.cash comes in as a preventative tool to manage your token allowances and practice proper wallet hygiene. By regularly revoking active allowances you reduce the chances of becoming the victim of allowance exploits.",
+		"url": "https://revoke.cash/",
+		"internalWallet": true,
+		"priority": 2
 	}
 	
 ]
