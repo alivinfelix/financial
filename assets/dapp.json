@@ -21,7 +21,7 @@
 		"shortDescription": "Mainnetz BulkSender",
 		"site": "https://multisender.mainnetz.io",
 		"description": "The BulkSender project allows users to send ERC20 standard tokens, NETZ Coin (Native Currency), and ERC721 NFTs in bulk transactions. It simplifies the process of sending these tokens to multiple wallets in a single transaction.",
-		"external": false,
+		"external": false, 
 		"url": "https://multisender.mainnetz.io/",
 		"internalWallet": false
 	},
